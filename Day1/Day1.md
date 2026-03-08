@@ -13,3 +13,8 @@
 3. [pinMode()](https://docs.arduino.cc/language-reference/en/functions/digital-io/pinMode/)
 4. [digitalWrite()](https://docs.arduino.cc/language-reference/en/functions/digital-io/digitalwrite/)
 5. [delay()](https://docs.arduino.cc/language-reference/en/functions/time/delay/)
+
+### Challenge
+- Use the Arduino's on-board LED to blink [SOS in Morse Code](https://en.wikipedia.org/wiki/SOS)
+
+### Tomorrow: Blink, but Better!
