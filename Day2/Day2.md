@@ -33,7 +33,8 @@ void loop() {
 </details>
 
 If we wanted to change the pin driving the LED (e.g. to drive an off-board LED), or change the delay time, we would need to make
-several changes throughout the code (and hope we found them all!). Using variables allows the code to both be more modifiable and more
+several changes throughout the code (and hope we found them all!). It is considered to be bad practice to use 'raw' numbers (also 
+called 'magic numbers') in code like the above example. Using variables allows the code to both be more modifiable and more
 readable. With just a single edit, we can make several changes throughout the code, and as long as the variable is well-named, it is
 obvious what each variable is describing.
 
