@@ -6,9 +6,11 @@
 
 ### Learn
 1. [Using Variables in Sketches](https://docs.arduino.cc/learn/programming/variables/)
-2. [Assignment Operator](https://docs.arduino.cc/language-reference/en/structure/arithmetic-operators/assignment/)
-3. [Statement Terminator (semi-colon)](https://docs.arduino.cc/language-reference/en/structure/further-syntax/semicolon/)
-4. [Code Blocks (curly braces)](https://docs.arduino.cc/language-reference/en/structure/further-syntax/curlyBraces/)
+2. [Block Comments](https://docs.arduino.cc/language-reference/en/structure/further-syntax/blockComment/)
+3. [Single-line Comments](https://docs.arduino.cc/language-reference/en/structure/further-syntax/singleLineComment/)
+4. [Assignment Operator](https://docs.arduino.cc/language-reference/en/structure/arithmetic-operators/assignment/)
+5. [Statement Terminator (semi-colon)](https://docs.arduino.cc/language-reference/en/structure/further-syntax/semicolon/)
+6. [Code Blocks (curly braces)](https://docs.arduino.cc/language-reference/en/structure/further-syntax/curlyBraces/)
 
 ### Challenge
 - Using the [Blink_empty.ino](https://github.com/mattflipsbits/DuinoDays/blob/main/Day2/Blink_empty/Blink_empty.ino) sketch provided, rewrite the Blink sketch using the comments as a guide.
