@@ -5,4 +5,4 @@
 - Learn the basic forms of Ohm's Law
 
 ### Learn
-- TBD: relevant sections in PEFI
+- TODO: relevant sections in PEFI, maybe some easier web articles? allaboutcircuits?
