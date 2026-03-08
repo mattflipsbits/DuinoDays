@@ -13,6 +13,7 @@ If you are using a different board, make sure to properly identify it [here](htt
 1. [What is Arduino?](https://docs.arduino.cc/learn/starting-guide/whats-arduino/)
 2. [Getting Started With Arduino Tools](https://docs.arduino.cc/learn/starting-guide/getting-started-with-arduino-tools/)
 3. Offline Editor: [Using the Arduino Software (IDE)](https://docs.arduino.cc/learn/starting-guide/the-arduino-software-ide/) **OR** Cloud Editor: [Using the Arduino Cloud Editor](https://docs.arduino.cc/learn/starting-guide/the-arduino-web-editor/)
+4. Something not working? Check [Troubleshooting Sketches](https://docs.arduino.cc/learn/starting-guide/troubleshooting-sketches/)
 
 
 
