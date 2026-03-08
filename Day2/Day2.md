@@ -10,3 +10,29 @@
 
 ### Challenge
 - Using the [Blink_empty.ino](https://github.com/mattflipsbits/DuinoDays/blob/main/Day2/Blink_empty/Blink_empty.ino) sketch provided, rewrite the Blink sketch using the comments as a guide.
+
+So how is this a "better" version of Blink? By using the variables `ledPin` and `delayTime` to store the relevant values, we
+are able to change those values throughout the code with one simple edit.<br>
+<details>
+  <summary>Consider this alternate (and worse) version:</summary>
+
+```
+void setup() {
+  pinMode(13, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(13, HIGH);
+  delay(500);
+  digitalWrite(13, LOW);
+  delay(500);
+}
+```
+</details>
+
+If we wanted to change the pin driving the LED (e.g. to drive an off-board LED), or change the delay time, we would need to make
+several changes throughout the code (and hope we found them all!). Using variables allows the code to both be more modifiable and more
+readable. With just a single edit, we can make several changes throughout the code, and as long as the variable is well-named, it is
+obvious what each variable is describing.
+
+### Tomorrow: Voltage, Resistance, and Current! Ohm My!
