@@ -4,17 +4,18 @@
 
 void setup() {
   // Use the pinMode() function to set the on-board LED pin (stored in ledPin)
-  // to OUTPUT. Use the ledPin variable you created above.
+  // to OUTPUT. Be sure to use the ledPin variable you created above.
 
   
 }
 
 void loop() {
-  // Set the on-board LED to HIGH using digitalWrite() and the ledPin variable.
+  // Set the on-board LED to HIGH using digitalWrite() with the ledPin variable.
 
-  // Wait 500 milliseconds using the delayTime variable.
+  // Wait 500 milliseconds using delay() with the delayTime variable.
 
-  // Set the on-board LED to LOW using digitalWrite() and the ledPin variable.
+  // Set the on-board LED to LOW using digitalWrite() with the ledPin variable.
 
-  // Wait 500 milliseconds using the delayTime variable.
+  // Wait 500 milliseconds using delay() with the delayTime variable.
+  
 }
