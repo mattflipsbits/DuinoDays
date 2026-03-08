@@ -11,3 +11,6 @@ Introductory Arduino programming, one day at a time.
 - [Day 1: Explaining Blink](https://github.com/mattflipsbits/DuinoDays/blob/main/Day1/Day1.md)
 - [Day 2: Blink, but Better!](https://github.com/mattflipsbits/DuinoDays/blob/main/Day2/Day2.md)
 - [Day 3: Voltage, Resistance, and Current! Ohm My!](https://github.com/mattflipsbits/DuinoDays/blob/main/Day3/Day3.md) (INCOMPLETE)
+
+## TO-DOs
+- Add "Main Takeaways" section to each Day/Lesson
