@@ -1,10 +1,10 @@
 ## Day 0: Setting Up Shop
 
 ### Today's Goal
--  Download and install Arduino's development environment
+-  Download and install Arduino's development environment (IDE)
 -  Upload your first Arduino program (also called a 'sketch')
 
-**NOTE:** There are multiple choices for the Arduino IDE; choose the one that best suits your needs!
+**NOTE:** There are multiple choices for the Arduino IDE, pick whichever one you like!
 
 ### Read
 -  [What is Arduino?](https://docs.arduino.cc/learn/starting-guide/whats-arduino/)
