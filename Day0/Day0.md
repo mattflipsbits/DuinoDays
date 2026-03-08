@@ -20,7 +20,7 @@ It's ok if you don't understand the code in the example, we'll go over it tomorr
 can successfully get your IDE set up and can compile and upload code to your Arduino.
 
 ### Challenge
-1. Change the timing of the Blink sketch you uploaded by altering the number in these lines of code:<br>
+- Change the timing of the Blink sketch you uploaded by altering the number in these lines of code:<br>
 ```delay(1000); <--- change the number in the parentheses!```
 
 ### Tomorrow: Explaining Blink!
