@@ -6,6 +6,10 @@ Introductory Arduino programming, one day at a time.
 - [Practical Electronics for Inventors (Scherz, Monk)](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541)
 - Digital Multimeter
 
+### Useful Bookmarks
+- [Learn Arduino](https://docs.arduino.cc/learn/)
+- [Arduino Language Reference](https://docs.arduino.cc/language-reference/)
+
 ## Let's Go!
 - [Day 0: Setting Up Shop](https://github.com/mattflipsbits/DuinoDays/blob/main/Day0/Day0.md)
 - [Day 1: Explaining Blink](https://github.com/mattflipsbits/DuinoDays/blob/main/Day1/Day1.md)
