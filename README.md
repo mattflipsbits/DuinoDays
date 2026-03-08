@@ -8,4 +8,4 @@ Introductory Arduino programming, one day at a time.
 
 ## Let's Go!
 - [Day 0: Setting Up Shop](https://github.com/mattflipsbits/DuinoDays/blob/main/Day0/Day0.md)
-- [Day 1: Explaining Blink](https://https://github.com/mattflipsbits/DuinoDays/blob/main/Day1/Day1.md)
+- [Day 1: Explaining Blink](https://github.com/mattflipsbits/DuinoDays/blob/main/Day1/Day1.md)
