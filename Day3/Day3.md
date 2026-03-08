@@ -5,4 +5,4 @@
 - Learn the basic forms of Ohm's Law
 
 ### Learn
-- TODO: relevant sections in PEFI, maybe some easier web articles? allaboutcircuits?
+- TODO: relevant sections in PEFI, maybe some easier web articles? allaboutcircuits? adafruit?
