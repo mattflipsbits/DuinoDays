@@ -7,13 +7,12 @@
 **NOTE:** There are multiple choices for the Arduino IDE, pick whichever one you like!
 
 This course has been designed using the [Arduino Mega2560](https://store.arduino.cc/products/arduino-mega-2560-rev3).
-If you are using a different board, make sure to properly identify it [here](https://www.arduino.cc/en/hardware) when setting up your IDE.
+If you are using a different board, make sure to properly identify it [here](https://www.arduino.cc/en/hardware) when setting up your IDE in step 3 of the **Read** section.
 
 ### Read
 1. [What is Arduino?](https://docs.arduino.cc/learn/starting-guide/whats-arduino/)
 2. [Getting Started With Arduino Tools](https://docs.arduino.cc/learn/starting-guide/getting-started-with-arduino-tools/)
-3. Offline Editor: [Using the Arduino Software (IDE)](https://docs.arduino.cc/learn/starting-guide/the-arduino-software-ide/)
-3. Cloud Editor: [Using the Arduino Cloud Editor](https://docs.arduino.cc/learn/starting-guide/the-arduino-web-editor/)
+3. Offline Editor: [Using the Arduino Software (IDE)](https://docs.arduino.cc/learn/starting-guide/the-arduino-software-ide/) **OR** Cloud Editor: [Using the Arduino Cloud Editor](https://docs.arduino.cc/learn/starting-guide/the-arduino-web-editor/)
 
 
 
