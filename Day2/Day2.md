@@ -9,4 +9,4 @@
 2. [Assignment Operator](https://docs.arduino.cc/language-reference/en/structure/arithmetic-operators/assignment/)
 
 ### Challenge
-- Using the Blink_empty.ino sketch provided, rewrite the Blink sketch using the comments as a guide.
+- Using the [Blink_empty.ino](https://github.com/mattflipsbits/DuinoDays/blob/main/Day2/Blink_empty/Blink_empty.ino) sketch provided, rewrite the Blink sketch using the comments as a guide.
