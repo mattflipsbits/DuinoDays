@@ -1,4 +1,4 @@
-# Day 1: Explaining Blink
+## Day 1: Explaining Blink
 
 ### Today's Goals
 - Learn the basic anatomy of an Arduino board
