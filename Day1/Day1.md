@@ -15,6 +15,6 @@
 5. [delay()](https://docs.arduino.cc/language-reference/en/functions/time/delay/)
 
 ### Challenge
-- Use the Arduino's on-board LED to blink [SOS in Morse Code](https://en.wikipedia.org/wiki/SOS)
+- Modify the Blink example to blink [SOS in Morse Code](https://en.wikipedia.org/wiki/SOS)
 
 ### Tomorrow: Blink, but Better!
