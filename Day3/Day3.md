@@ -13,3 +13,8 @@ as Ohm's Law. We'll also learn how to use our digital multimeter to measure thes
 - PEFI Ch. 2.1: Theory of Electronics
 - PEFI Ch. 2.2: Electric Current
 - PEFI Ch. 2.3: Voltage
+
+### TODO
+- Additional info not explained in PEFI (e.g. limits, charge, etc.)
+- Multimeter setup (PEFI? Quick web article?)
+- Challenges (various voltage measurements)
