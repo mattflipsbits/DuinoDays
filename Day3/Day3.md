@@ -5,10 +5,15 @@ namely voltage, resistance, and current, as well as the mathematical relationshi
 as Ohm's Law. We'll also learn how to use our digital multimeter to measure these properties.
 
 ### Today's Goals
-- Learn about current and voltage
+- Learn about electric charge, voltage, and current
 - Set up a digital multimeter and use it to measure voltage
 
-### Learn (PEFI refers to the book Practical Electronics for Inventors)
+### Learn
+- Circuit https://learn.sparkfun.com/tutorials/what-is-a-circuit
+- What is voltage? https://www.youtube.com/watch?v=z8qfhFXjsrw
+- Current https://www.youtube.com/watch?v=kYwNj9uauJ4
+
+### Additional Reading in Practical Electronics for Inventors (PEFI)
 - PEFI Ch. 1: Introduction to Electronics
 - PEFI Ch. 2.1: Theory of Electronics
 - PEFI Ch. 2.2: Electric Current
