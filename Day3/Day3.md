@@ -1,8 +1,10 @@
 ## Day 3: Voltage, Resistance, and Current! Ohm My! (Part 1)
 
 For the next few lessons, we'll briefly step away from programming to learn some basic electrical properties,
-namely voltage, resistance, and current, as well as the mathematical relationship between the three, known
-as Ohm's Law. We'll also learn how to use our digital multimeter to measure these properties.
+namely voltage, resistance, and current, the mathematical relationship between them (known as Ohm's Law), and
+how to measure them using a multimeter.
+
+We will then use this information to design our first circuit: lighting an LED by pressing a button.
 
 ### Today's Goals
 - Introduction to electrical charge, voltage, current, resistance and Ohm's Law
@@ -16,4 +18,7 @@ as Ohm's Law. We'll also learn how to use our digital multimeter to measure thes
 ### TODO
 - Additional info not explained in PEFI (e.g. limits, charge, etc.)
 - Multimeter setup (PEFI? Quick web article?)
-- Challenges (various voltage measurements)
+- Challenges (measuring voltage and resistance)
+- [What is a circuit?](https://learn.sparkfun.com/tutorials/what-is-a-circuit) Later?
+- [What is electricity?](https://learn.sparkfun.com/tutorials/what-is-electricity) Optional?
+- [Voltage, current, etc](https://learn.sparkfun.com/tutorials/voltage-current-resistance-and-ohms-law)
