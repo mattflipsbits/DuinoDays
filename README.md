@@ -6,6 +6,10 @@ Introductory Arduino programming, one day at a time.
 - [Practical Electronics for Inventors (Scherz, Monk)](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541)
 - Digital Multimeter
 
+### Optional Materials
+- [Multimeter Hook and Clip Probes](https://www.amazon.com/dp/B07F8R3VG9) for hands-free multimeter use
+- [Preformed Breadboard Jumper Wires](https://www.amazon.com/dp/B0GD5S66MX) for neat prototyping
+
 ### Useful Bookmarks
 - [Learn Arduino](https://docs.arduino.cc/learn/)
 - [Arduino Language Reference](https://docs.arduino.cc/language-reference/)
