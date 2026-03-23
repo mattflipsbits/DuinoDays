@@ -5,13 +5,13 @@ namely voltage, resistance, and current, as well as the mathematical relationshi
 as Ohm's Law. We'll also learn how to use our digital multimeter to measure these properties.
 
 ### Today's Goals
-- Learn about electric charge, voltage, and current
-- Set up a digital multimeter and use it to measure voltage
+- Introduction to electrical charge, voltage, current, resistance and Ohm's Law
+- Set up a digital multimeter and use it to measure voltage and resistance
 
 ### Learn
 - [Video (7 min): What is voltage?](https://www.youtube.com/watch?v=z8qfhFXjsrw)
 - [Video (6 min): What is current?](https://www.youtube.com/watch?v=kYwNj9uauJ4)
-- [Article: What is a circuit?](https://learn.sparkfun.com/tutorials/what-is-a-circuit) 
+- [Video (6 min): Ohm's Law](https://www.youtube.com/watch?v=8jB6hDUqN0Y)
 
 ### TODO
 - Additional info not explained in PEFI (e.g. limits, charge, etc.)
