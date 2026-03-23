@@ -9,6 +9,7 @@ Introductory Arduino programming, one day at a time.
 ### Optional Materials
 - [Multimeter Hook and Clip Probes](https://www.amazon.com/dp/B07F8R3VG9) for hands-free multimeter use
 - [Preformed Breadboard Jumper Wires](https://www.amazon.com/dp/B0GD5S66MX) for neat prototyping
+- [Mounting Board](https://www.amazon.com/dp/B07WCBXFD3)
 
 ### Useful Bookmarks
 - [Learn Arduino](https://docs.arduino.cc/learn/)
