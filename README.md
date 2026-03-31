@@ -8,7 +8,7 @@ Introductory Arduino programming, one day at a time.
 
 ### Materials (Hardware-free, web-only)
 - [Tinkercad](https://www.tinkercad.com) (account required)
-- [All About Circuits](https://www.allaboutcircuits.com) free web-based textbooks
+- [All About Circuits](https://www.allaboutcircuits.com/textbook) free web-based textbooks
 
 ### Optional Materials
 - [Multimeter Hook and Clip Probes](https://www.amazon.com/dp/B07F8R3VG9) for hands-free multimeter use
