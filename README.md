@@ -11,4 +11,4 @@ or two concepts accompanied by Tinkercad activities.
 
 # Let's Go!
 - [Day 0: Setting Up Shop](https://github.com/mattflipsbits/DuinoDays/blob/main/Day0/Day0.md)
-- [Day 1: Arduino Program Structure]
+- [Day 1: Arduino Program Structure](https://github.com/mattflipsbits/DuinoDays/blob/main/Day1/Day1.md)
