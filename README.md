@@ -1,6 +1,25 @@
 # 'Duino Days
 Introductory Arduino programming, one day at a time.
 
+## Part 1: Fundamentals of Electronics and Programming in Tinkercad
+### Materials
+- [Tinkercad Account](https://www.tinkercad.com)
+- [Khan Academy Account](https://www.khanacademy.org)
+
+
+
+## Part 2: Intermediate Electronics and Programming using Real Hardware
+### Materials
+- [Elegoo Mega R3 Most Complete Ultimate Starter Kit](https://www.amazon.com/EL-KIT-008-Project-Complete-Ultimate-TUTORIAL/dp/B01EWNUUUA)
+- [Practical Electronics for Inventors (Scherz, Monk)](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541)
+- Digital Multimeter
+### Optional Materials
+- [Multimeter Hook and Clip Probes](https://www.amazon.com/dp/B07F8R3VG9) for hands-free multimeter use
+- [Preformed Breadboard Jumper Wires](https://www.amazon.com/dp/B0GD5S66MX) for neat prototyping
+- [Mounting Board](https://www.amazon.com/dp/B07WCBXFD3)
+
+===================================================================
+# START TO-REMOVE
 ### Materials (Real Hardware)
 - [Elegoo Mega R3 Most Complete Ultimate Starter Kit](https://www.amazon.com/EL-KIT-008-Project-Complete-Ultimate-TUTORIAL/dp/B01EWNUUUA)
 - [Practical Electronics for Inventors (Scherz, Monk)](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541)
@@ -8,7 +27,7 @@ Introductory Arduino programming, one day at a time.
 
 ### Materials (Hardware-free, web-only)
 - [Tinkercad](https://www.tinkercad.com) (account required)
-- [All About Circuits](https://www.allaboutcircuits.com/textbook) free web-based textbooks
+- ??? [All About Circuits](https://www.allaboutcircuits.com/textbook) free web-based textbooks
 
 ### Optional Materials
 - [Multimeter Hook and Clip Probes](https://www.amazon.com/dp/B07F8R3VG9) for hands-free multimeter use
@@ -18,6 +37,8 @@ Introductory Arduino programming, one day at a time.
 ### Useful Bookmarks
 - [Learn Arduino](https://docs.arduino.cc/learn/)
 - [Arduino Language Reference](https://docs.arduino.cc/language-reference/)
+# END TO-REMOVE
+====================================================================
 
 ## Roadmap
 - General Programming
