@@ -10,4 +10,5 @@
 - Complete the ***Comments*** activity in Tinkercad.
 - Read about the [setup()](https://docs.arduino.cc/language-reference/en/structure/sketch/setup/) and [loop()](https://docs.arduino.cc/language-reference/en/structure/sketch/loop/) functions
 - Learn the purpose of [curly braces](https://docs.arduino.cc/language-reference/en/structure/further-syntax/curlyBraces/)
-- Complete the ***Structure*** activity in Tinkercad.
+- Read the ***Arduino Structure*** activity in Tinkercad.
+- Complete the ***Bare Minimum*** activity in Tinkercad.
