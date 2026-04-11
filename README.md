@@ -67,6 +67,7 @@ Introductory Arduino programming, one day at a time.
 - [Day 3: Voltage, Resistance, and Current! Ohm My!](https://github.com/mattflipsbits/DuinoDays/blob/main/Day3/Day3.md) (INCOMPLETE)
 
 ## TO-DOs
+- Reorganize into 2 part structure: Part 1 - Programming and Electronics Fundamentals in Tinkercad, Part 2 - Kit walkthrough with real hardware
 - Add "Main Takeaways" section to each Day/Lesson
 - Compile all relevant sections in Practical Electronics
 - Analyze All About Circuits textbook: needs continuity? can be broken up? difficulty level?
