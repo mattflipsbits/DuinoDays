@@ -6,8 +6,6 @@ Introductory Arduino programming, one day at a time.
 - [Tinkercad Account](https://www.tinkercad.com)
 - [Khan Academy Account](https://www.khanacademy.org)
 
-
-
 ## Part 2: Intermediate Electronics and Programming using Real Hardware
 ### Materials
 - [Elegoo Mega R3 Most Complete Ultimate Starter Kit](https://www.amazon.com/EL-KIT-008-Project-Complete-Ultimate-TUTORIAL/dp/B01EWNUUUA)
