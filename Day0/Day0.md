@@ -4,6 +4,7 @@
 - Familiarize Yourself with Tinkercad
 
 ### Tasks
+- [What is Arduino?](https://docs.arduino.cc/learn/starting-guide/whats-arduino/)
 - [Create a Tinkercad Account](https://www.tinkercad.com/join)
 - Join the ['Duino Days Tinkercad Class](https://www.tinkercad.com/joinclass/KB9BWQB6A)
 - Open ***Day 0*** then Copy and Tinker the ***Basic Tinkercad*** activity
