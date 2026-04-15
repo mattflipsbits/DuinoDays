@@ -11,3 +11,7 @@
 - pinMode()
 - digitalWrite()
 - delay()
+
+### Activities
+- Alter the timing of the Blink program
+- Fix a non-compiling Blink program
