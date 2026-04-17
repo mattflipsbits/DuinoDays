@@ -19,6 +19,9 @@ by Autodesk, while Part 3 uses physical hardware.
 
 ### Part 3: Hands-on Engineering
 
+### Materials
+- [Elegoo Mega R3 Most Complete Ultimate Starter Kit](https://www.amazon.com/EL-KIT-008-Project-Complete-Ultimate-TUTORIAL/dp/B01EWNUUUA)
+- 
 
 
 # Let's Go!
