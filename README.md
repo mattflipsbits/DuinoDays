@@ -6,9 +6,20 @@ Introductory Arduino programming, one day at a time
 Arduino platform. It is designed to be similar to the "100 Days of Code" challenges you may
 have seen, and is divided into three parts: programming fundamentals, electronics fundamentals,
 and hands-on engineering. Parts 1 and 2 take place in Tinkercad, a free web-based simulator
-by Autodesk, while Part 3 uses physical hardware.
+by Autodesk, while Part 3 uses physical hardware. Each "day" introduces a small number of
+concepts which are then paired up with hands-on activities. Activities in Tinkercad have
+been organized into a Tinkercad Class, a link to which can be found in [Day 0](*TODO: INSERT LINK*).
+
+
 
 ## Part 1: Programming Fundamentals in Tinkercad
+In this section, you will learn the fundamentals of programming using Arduino's dialect of the
+C++ programming language. You will learn how Arduino programs are structured, program syntax,
+terminal input and output, control structures, iteration and repetition, and basic program design.
+
+
+*NOTE:* While many concepts in this section will also apply to general-purpose C++ programming,
+        many will not. Arduino-specific topics will be labelled **(Arduino only)**.
 
 ### Materials
 - [Tinkercad Account](https://www.tinkercad.com)
@@ -16,6 +27,8 @@ by Autodesk, while Part 3 uses physical hardware.
 
 ## Part 2: Electronics Fundamentals in Tinkercad
 
+### Materials
+- [Practical Electronics for Inventors (Scherz, Monk)](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541)
 
 ### Part 3: Hands-on Engineering
 
