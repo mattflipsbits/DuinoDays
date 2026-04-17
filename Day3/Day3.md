@@ -1,4 +1,4 @@
-# Day 3: Blink
+## Day 3: Blink
 
 ### Today's Goals
 - Learn the basic anatomy of an Arduino development board
