@@ -27,6 +27,10 @@ You will also familiarize yourself with Arduino's official language reference do
 
 
 ## Part 2: Electronics Fundamentals in Tinkercad
+This section introduces the fundamental concepts of electronics such as voltage, current, resistance,
+and Ohm's Law. You will also learn about various electronic components such as resistors, diodes, LEDs,
+capacitors, and transistors, and how to integrate these components into simple programmable Arduino-based
+devices.
 
 ### Materials
 - [Practical Electronics for Inventors (Scherz, Monk)](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541)
@@ -35,7 +39,7 @@ You will also familiarize yourself with Arduino's official language reference do
 
 ### Materials
 - [Elegoo Mega R3 Most Complete Ultimate Starter Kit](https://www.amazon.com/EL-KIT-008-Project-Complete-Ultimate-TUTORIAL/dp/B01EWNUUUA)
-- 
+- Digital Multimeter
 
 
 # Let's Go!
