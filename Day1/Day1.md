@@ -1,4 +1,4 @@
-# Day 1: Arduino Program Structure
+## Day 1: Arduino Program Structure
 
 ### Today's Goal
 - Learn how to comment code
