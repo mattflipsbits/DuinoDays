@@ -1,13 +1,25 @@
 # 'Duino Days
 Introductory Arduino programming, one day at a time
 
-## Part 1: Fundamentals of Electronics and Programming in Tinkercad
-The first section of the course teaches the basics of programming and electronics using
-Tinkercad, a free web-based simulator created by Autodesk. Each day will focus on one
-or two concepts accompanied by Tinkercad activities.
+## About This Course
+'Duino Days is an introductory course to microcontroller programming using the open-source
+Arduino platform. It is designed to be similar to the "100 Days of Code" challenges you may
+have seen, and is divided into three parts: programming fundamentals, electronics fundamentals,
+and hands-on engineering. Parts 1 and 2 take place in Tinkercad, a free web-based simulator
+by Autodesk, while Part 3 uses physical hardware.
+
+## Part 1: Programming Fundamentals in Tinkercad
 
 ### Materials
 - [Tinkercad Account](https://www.tinkercad.com)
+
+
+## Part 2: Electronics Fundamentals in Tinkercad
+
+
+### Part 3: Hands-on Engineering
+
+
 
 # Let's Go!
 - [Day 0: Setting Up Shop](https://github.com/mattflipsbits/DuinoDays/blob/main/Day0/Day0.md)
