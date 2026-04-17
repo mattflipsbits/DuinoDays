@@ -1,17 +1,17 @@
-# Day 2: Blink
+# Day 2: Hello, World!
 
 ### Today's Goals
 - Learn about program syntax and compilation
-- Learn basic control of an Arduino's on-board LED
+- Introduction to the Serial Monitor
 
 ### Learn
 - Syntax
 - Compilation
 - Semi-colon
-- pinMode()
-- digitalWrite()
-- delay()
+- Serial.begin()
+- Serial.print()
+- Serial.println()
 
 ### Activities
-- Alter the timing of the Blink program
-- Fix a non-compiling Blink program
+- Hello, world!
+- Serial.print() vs. Serial.println()
