@@ -1,4 +1,4 @@
-# Day 3: Blink, but Better!
+## Day 3: Blink, but Better!
 
 ### Today's Goals
 - Learn about variables and assignment
