@@ -1,5 +1,7 @@
 ## Day 0: Setting Up Shop
-The goal for today is to set up and familiarize yourself with Tinkercad.
+
+### Today's Goal
+- Set up and familiarize yourself with Tinkercad
 
 ## From the Docs
 - [What is Arduino?](https://docs.arduino.cc/learn/starting-guide/whats-arduino/)
