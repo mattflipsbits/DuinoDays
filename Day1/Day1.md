@@ -26,7 +26,7 @@ various [development boards](https://docs.arduino.cc/hardware/) using a large va
 In this course we will be using a virtual [Arduino Uno R3](https://docs.arduino.cc/hardware/uno-rev3/)
 featuring the [ATmega328P](https://www.microchip.com/en-us/product/atmega328p) microcontroller in the
 Tinkercad sections, and the [Arduino Mega 2560](https://docs.arduino.cc/hardware/mega-2560/) which features
-the [ATmega 2560](https://www.microchip.com/en-us/product/atmega2560)in the hands-on section.
+the [ATmega 2560](https://www.microchip.com/en-us/product/atmega2560) in the hands-on section.
 ##
 
 ### From the Docs
