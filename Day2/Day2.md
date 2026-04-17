@@ -1,4 +1,4 @@
-# Day 2: Hello, World!
+## Day 2: Hello, World!
 
 ### Today's Goals
 - Learn about program syntax and compilation
