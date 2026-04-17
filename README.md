@@ -18,7 +18,7 @@ terminal input and output, control structures, iteration and repetition, and bas
 You will also familiarize yourself with Arduino's official language reference documentation.
 
 
-*NOTE:* While many concepts in this section will also apply to general-purpose C++ programming,
+***NOTE:*** While many concepts in this section will also apply to general-purpose C++ programming,
         many will not. Arduino-specific topics will be labelled **(Arduino only)**.
 
 ### Materials
