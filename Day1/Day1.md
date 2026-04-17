@@ -1,6 +1,6 @@
 ## Day 1: Arduino Program Structure
 
-### Today's Goal
+### Today's Goals
 - Introduction to microcontrollers and the Arduino ecosystem
 - Learn how to comment code
 - Learn the structure of an Arduino program
