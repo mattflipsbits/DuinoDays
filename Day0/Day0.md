@@ -3,9 +3,6 @@
 ### Today's Goal
 - Set up and familiarize yourself with Tinkercad
 
-## From the Docs
-- [What is Arduino?](https://docs.arduino.cc/learn/starting-guide/whats-arduino/)
-
 ### Activities
 - [Create a Tinkercad Account](https://www.tinkercad.com/join)
 - Join the ['Duino Days Tinkercad Class](https://www.tinkercad.com/joinclass/KB9BWQB6A)
