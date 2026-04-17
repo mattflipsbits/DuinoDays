@@ -8,14 +8,14 @@ have seen, and is divided into three parts: programming fundamentals, electronic
 and hands-on engineering. Parts 1 and 2 take place in Tinkercad, a free web-based simulator
 by Autodesk, while Part 3 uses physical hardware. Each "day" introduces a small number of
 concepts which are then paired up with hands-on activities. Activities in Tinkercad have
-been organized into a Tinkercad Class, a link to which can be found in [Day 0](*TODO: INSERT LINK*).
-
+been organized into a Tinkercad Class, a link to which can be found in [Day 0](https://github.com/mattflipsbits/DuinoDays/blob/main/Day0/Day0.md).
 
 
 ## Part 1: Programming Fundamentals in Tinkercad
 In this section, you will learn the fundamentals of programming using Arduino's dialect of the
 C++ programming language. You will learn how Arduino programs are structured, program syntax,
 terminal input and output, control structures, iteration and repetition, and basic program design.
+You will also familiarize yourself with Arduino's official language reference documentation.
 
 
 *NOTE:* While many concepts in this section will also apply to general-purpose C++ programming,
@@ -23,6 +23,7 @@ terminal input and output, control structures, iteration and repetition, and bas
 
 ### Materials
 - [Tinkercad Account](https://www.tinkercad.com)
+- [Official Arduino Language Reference](https://docs.arduino.cc/language-reference/)
 
 
 ## Part 2: Electronics Fundamentals in Tinkercad
