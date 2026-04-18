@@ -163,6 +163,7 @@ Finally, the function call is terminated with a semi-colon.
 - [Serial.begin()](https://docs.arduino.cc/language-reference/en/functions/communication/serial/begin/)
 - [Serial.print()](https://docs.arduino.cc/language-reference/en/functions/communication/serial/print/)
 - [Serial.println()](https://docs.arduino.cc/language-reference/en/functions/communication/serial/println/)
+- [Debugging Fundamentals](https://docs.arduino.cc/learn/microcontrollers/debugging/)
 
 
 ### Activities
