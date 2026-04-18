@@ -106,6 +106,6 @@ Tinkercad activity.
 - [curly braces](https://docs.arduino.cc/language-reference/en/structure/further-syntax/curlyBraces/)
 
 ### Activities
-- Complete the ***Comments*** activity in Tinkercad.
-- Read the ***Arduino Structure*** activity in Tinkercad.
-- Complete the ***Bare Minimum*** activity in Tinkercad.
+- Tinkercad: ***Comments*** - write your own single-line and block comments
+- Tinkercad: ***Arduino Structure*** - basic template for reference/review
+- Tinkercad: ***Bare Minimum*** - guided practice writing the basic template on your own
