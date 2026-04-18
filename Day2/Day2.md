@@ -149,14 +149,6 @@ Finally, the function call is terminated with a semi-colon.
 
 ##
 
-### Topics (* indicates done for now)
-- Syntax *
-- Compilation *
-- Semi-colon *
-- Serial.begin() *
-- Serial.print()
-- Serial.println()
-
 ### From the Docs
 - [semi-colon](https://docs.arduino.cc/language-reference/en/structure/further-syntax/semicolon/)
 - [Serial Functions](https://docs.arduino.cc/language-reference/en/functions/communication/serial/#functions)
