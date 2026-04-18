@@ -105,7 +105,7 @@ cause the program to exhibit unexpected behavior. Address all compiler warnings 
 they can be the source of difficult bugs.
 
 ### The Serial Monitor ***(Arduino only)***
-As stated above, the Arduino has display of its own. It must first send data (such as text) over a USB
+As stated above, the Arduino has no display of its own. It must first send data (such as text) over a USB
 cable connected to a desktop or laptop running the Arduino Integrated Development Environment (IDE for short),
 which then displays the data in the Serial Monitor within the IDE. The Serial Monitor will be your primary 
 form of communication with your Arduino.
@@ -140,10 +140,10 @@ Finally, the function call is terminated with a semi-colon.
 
 ***NOTE:*** C++ is case-sensitive. Things like `serial.Begin()` or `SERIAL.BEGIN()` will cause an error.
 
-#### Serial.println() ***(Arduino only)***
-
-
 #### Serial.print() ***(Arduino only)***
+
+
+#### Serial.println() ***(Arduino only)***
 
 
 
@@ -154,17 +154,19 @@ Finally, the function call is terminated with a semi-colon.
 - Compilation *
 - Semi-colon *
 - Serial.begin() *
-- Serial.println()
 - Serial.print()
+- Serial.println()
 
 ### From the Docs
 - [semi-colon](https://docs.arduino.cc/language-reference/en/structure/further-syntax/semicolon/)
 - [Serial Functions](https://docs.arduino.cc/language-reference/en/functions/communication/serial/#functions)
 - [Serial.begin()](https://docs.arduino.cc/language-reference/en/functions/communication/serial/begin/)
+- [Serial.print()](https://docs.arduino.cc/language-reference/en/functions/communication/serial/print/)
+- [Serial.println()](https://docs.arduino.cc/language-reference/en/functions/communication/serial/println/)
 
 
 ### Activities
 - Tinkercad: ***Code Walk: Hello, world!***
-- Tinkercad: ***Debug: Hello, world!***
-- Tinkercad: ***From Scratch: Hello, world!***
-- Tinkdercad: ***Serial.print() vs. Serial.println()***
+- Tinkercad: ***Debug: Hello, world!*** TODO
+- Tinkercad: ***From Scratch: Hello, world!*** TODO
+- Tinkdercad: ***Serial.print() vs. Serial.println()*** TODO
