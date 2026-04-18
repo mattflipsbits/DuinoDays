@@ -16,9 +16,9 @@ You can see its location here, circled in green:
 
 ### From the Docs
 - [Arduino Sketches](https://docs.arduino.cc/learn/programming/sketches/): Reviews much of what has been covered so far, and offers a peek ahead at variables, which will be covered in the next lesson.
-- [Anatomy of an Arduino Board](https://docs.arduino.cc/learn/starting-guide/getting-started-arduino/#anatomy-of-an-arduino-board): Also gives an overview of upcoming topics.
+- [Arduino UNO Board Anatomy](https://docs.arduino.cc/tutorials/uno-rev3/board-anatomy/): Component layout of an UNO R3.
 - [Digital Pins](https://docs.arduino.cc/learn/microcontrollers/digital-pins/): Some technical information on how Arduino's digital pins operate. For now we're mostly focused on the `OUTPUT` configuration.
-- [pinMode()](https://docs.arduino.cc/language-reference/en/functions/digital-io/pinMode/): Documentation on the `pinMode()` function.
+- [pinMode()](https://docs.arduino.cc/language-reference/en/functions/digital-io/pinMode/): Documentation on the `pinMode()` function, using today's Blink program as an example.
 - [digitalWrite()](https://docs.arduino.cc/language-reference/en/functions/digital-io/digitalwrite/): Documentation on the `digitalWrite()` function.
 - [delay()](https://docs.arduino.cc/language-reference/en/functions/time/delay/): Documentation on the `delay()` function.
 
