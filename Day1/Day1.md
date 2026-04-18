@@ -52,7 +52,7 @@ comment. They do not have to start at the beginning of a line.
 
 Examples:
 ```
-/* This can be used as an alternate single-line comment just don't forget to close it with this! ---> */
+/* This can be used as an alternate single-line comment, just don't forget to close it with this! ---> */
 
 /*
     A block comment can
@@ -91,7 +91,7 @@ void loop() {
 }
 ```
 The curly braces are used to delimit the "boundaries" of the function. Any code between them are considered to be
-part of the function. We will learn about what exactly `void` is and why the parentheses are there when we dive deeper
+part of the function. We will learn what exactly `void` is and why the parentheses are there when we dive deeper
 into how functions are constructed a bit later. You can also review this structure in the ***Arduino Structure***
 Tinkercad activity.
 ##
