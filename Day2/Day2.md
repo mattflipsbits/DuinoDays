@@ -141,10 +141,38 @@ Finally, the function call is terminated with a semi-colon.
 ***NOTE:*** C++ is case-sensitive. Things like `serial.Begin()` or `SERIAL.BEGIN()` will cause an error.
 
 #### Serial.print() ***(Arduino only)***
+The structure of this function is similar to `Serial.begin()` - only this time we use `print()` instead of `begin()`.
+The `Serial.print()` function accepts one argument (for now). In our case, we are using a **string** as the argument.
+A string begins and ends with quotation marks, and contains text, which in this case will be printed to the Serial Monitor.
+Not that the quotation marks are not printed, they only serve to delineate the beginning and the end of the string. If you
+wish to contain a quotation mark within a string, you may use the **escape character** `\"` which tells the compiler that
+you wish to include the quotation mark as part of the string, and not to begin or end one.
 
+Example:
+```
+Serial.print("Jim came up to me and said, \"Hi, there!\"");
+```
+which will output:
+```
+Jim came up to me and said, "Hi, there!"
+```
+
+Now consider this incorrect example:
+```
+Serial.print("Jim came up to me and said, "Hi, there!");    // COMPILER ERROR
+```
+Why would this cause a compiler error? Because, instead of just one complete string, we are giving
+the `print()` function one complete string ("Jim came up to me and said, ") plus several extraneous
+characters (Hi, there!") that the compiler doesn't know what to do with. Feel free to run this in
+Tinkercad to see the error. Notice how the highlighting changes after the second quotation mark.
+
+Note that `Serial.print()` will not advance the cursor to the next line, so any successive calls
+to `Serial.print()` will occur immediately to the right of the last character printed. See the
+Tinkercad Activity ***Serial.print() vs. Serial.println()*** for a demonstration.
 
 #### Serial.println() ***(Arduino only)***
-
+`Serial.println()` works the same as `Serial.print()` only it will advance to the next line. See the
+Tinkercad Activity ***Serial.print() vs. Serial.println()*** for a demonstration.
 
 
 ##
