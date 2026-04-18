@@ -4,8 +4,9 @@ used in place of the more traditional "Hello, world," we learned in the last les
 systems lack any sort of display for text. Fortunately for us, all Arduino boards have an on-board LED
 that a programmer can control.
 
-You can see the location here, circled in green:
-<img src="./ArduinoLED.png">
+You can see its location here, circled in green:
+
+<img src="./ArduinoLED.png" width="20%">
 
 ### Today's Goals
 - Learn the basic anatomy of an Arduino development board
@@ -20,3 +21,8 @@ You can see the location here, circled in green:
 - [pinMode()](https://docs.arduino.cc/language-reference/en/functions/digital-io/pinMode/): Documentation on the `pinMode()` function.
 - [digitalWrite()](https://docs.arduino.cc/language-reference/en/functions/digital-io/digitalwrite/): Documentation on the `digitalWrite()` function.
 - [delay()](https://docs.arduino.cc/language-reference/en/functions/time/delay/): Documentation on the `delay()` function.
+
+### Activities
+- Tinkercad: ***Code Walk: Blink***
+- Tinkercad: ***Debug: Blink***
+- Tinkercad: ***From Scratch: Blink***
