@@ -14,7 +14,7 @@
 - [int](https://docs.arduino.cc/language-reference/en/variables/data-types/int/), [unsigned int](https://docs.arduino.cc/language-reference/en/variables/data-types/unsignedInt/)
 
 
-### Activities
+### Activities (TODO)
 - Fix a variable scope bug
 - Refactor Blink to use variables
 - Add output to serial monitor to reflect LED state
