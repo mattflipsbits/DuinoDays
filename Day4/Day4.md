@@ -17,7 +17,6 @@
 ### Activities (TODO)
 - Debug: Blink with Variables
 - From Scratch: Blink with Variables
-- Challenge: Blink with Serial Monitor
 
 ## Self-note (to be removed):
 - Introduce only `ints` for now - add other data types as necessary (there's just too many, don't overwhelm)
