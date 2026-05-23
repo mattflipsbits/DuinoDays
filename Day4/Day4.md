@@ -15,9 +15,9 @@
 
 
 ### Activities (TODO)
-- Fix a variable scope bug
-- Refactor Blink to use variables
-- Add output to serial monitor to reflect LED state
+- Debug: Blink with Variables
+- From Scratch: Blink with Variables
+- Challenge: Blink with Serial Monitor
 
 ## Self-note (to be removed):
 - Introduce only `ints` for now - add other data types as necessary (there's just too many, don't overwhelm)
