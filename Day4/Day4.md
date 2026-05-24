@@ -14,6 +14,6 @@
 - [int](https://docs.arduino.cc/language-reference/en/variables/data-types/int/), [unsigned int](https://docs.arduino.cc/language-reference/en/variables/data-types/unsignedInt/)
 
 
-### Activities (TODO)
-- Debug: Blink with Variables
-- From Scratch: Blink with Variables
+### Activities
+- Tinkercad: ***Debug: Blink with Variables***
+- Tinkercad: ***From Scratch: Blink with Variables***
