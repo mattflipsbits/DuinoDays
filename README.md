@@ -45,3 +45,6 @@ devices.
 # Let's Go!
 - [Day 0: Setting Up Shop](https://github.com/mattflipsbits/DuinoDays/blob/main/Day0/Day0.md)
 - [Day 1: Arduino Program Structure](https://github.com/mattflipsbits/DuinoDays/blob/main/Day1/Day1.md)
+- [Day 2: Hello, World!](https://github.com/mattflipsbits/DuinoDays/blob/main/Day2/Day2.md)
+- [Day 3: Blink](https://github.com/mattflipsbits/DuinoDays/blob/main/Day3/Day3.md)
+- [Day 4: Blink, but Better!](https://github.com/mattflipsbits/DuinoDays/blob/main/Day4/Day4.md)
