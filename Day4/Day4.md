@@ -11,7 +11,7 @@
 - [Bit](https://en.wikipedia.org/wiki/Bit)
 - [Byte](https://en.wikipedia.org/wiki/Byte)
 - [Binary](https://en.wikipedia.org/wiki/Binary_number#Counting_in_binary)
-- [int](https://docs.arduino.cc/language-reference/en/variables/data-types/int/), [unsigned int](https://docs.arduino.cc/language-reference/en/variables/data-types/unsignedInt/) **Note: there are many data types beyond `int` - we will be introducing them slowly as necessary
+- [int](https://docs.arduino.cc/language-reference/en/variables/data-types/int/), [unsigned int](https://docs.arduino.cc/language-reference/en/variables/data-types/unsignedInt/) *Note: there are many data types beyond `int` - we will be introducing them slowly as necessary*
 
 
 ### Activities
