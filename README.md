@@ -48,3 +48,5 @@ devices.
 - [Day 2: Hello, World!](https://github.com/mattflipsbits/DuinoDays/blob/main/Day2/Day2.md)
 - [Day 3: Blink](https://github.com/mattflipsbits/DuinoDays/blob/main/Day3/Day3.md)
 - [Day 4: Blink, but Better!](https://github.com/mattflipsbits/DuinoDays/blob/main/Day4/Day4.md)
+- Day 5: Crunching the Numbers
+- 
