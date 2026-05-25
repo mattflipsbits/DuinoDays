@@ -17,3 +17,7 @@
 ### Activities
 - Tinkercad: ***Debug: Blink with Variables***
 - Tinkercad: ***From Scratch: Blink with Variables***
+
+##
+### Up Next
+Day 5: Crunching the Numbers
