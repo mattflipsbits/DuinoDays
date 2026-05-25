@@ -26,3 +26,7 @@ You can see its location here, circled in green:
 - Tinkercad: ***Code Walk: Blink***
 - Tinkercad: ***Debug: Blink***
 - Tinkercad: ***From Scratch: Blink***
+
+### Up Next
+##
+[Day 4: Blink, but Better!](https://github.com/mattflipsbits/DuinoDays/blob/main/Day4/Day4.md)
