@@ -11,8 +11,8 @@
   use the Rotate and Mirror Tools, connect components using the wire tool,
   open and close the Code window, and Start and Stop the simulation.
 
-### Up Next
 ##
+### Up Next
 [Day 1: Arduino Program Structure](https://github.com/mattflipsbits/DuinoDays/blob/main/Day1/Day1.md)
 
 
