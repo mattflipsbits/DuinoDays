@@ -191,3 +191,7 @@ Tinkercad Activity ***Serial.print() vs. Serial.println()*** for a demonstration
 - Tinkercad: ***Debug: Hello, world!*** TODO
 - Tinkercad: ***From Scratch: Hello, world!*** TODO
 - Tinkdercad: ***Serial.print() vs. Serial.println()*** TODO
+
+### Up Next
+##
+[Day 3: Blink](https://github.com/mattflipsbits/DuinoDays/blob/main/Day3/Day3.md)
