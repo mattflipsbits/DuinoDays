@@ -13,6 +13,6 @@
 
 ### Up Next
 ##
-[Day 1: ](https://github.com/mattflipsbits/DuinoDays/blob/main/Day1/Day1.md)
+[Day 1: Arduino Program Structure](https://github.com/mattflipsbits/DuinoDays/blob/main/Day1/Day1.md)
 
 
