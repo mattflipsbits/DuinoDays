@@ -3,3 +3,4 @@
 ### Today's Goals
 - Learn the arithmetic operators
 - Doing useful math with variables
+- Learn how to get user input from the serial monitor
