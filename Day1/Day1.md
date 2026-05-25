@@ -109,3 +109,7 @@ Tinkercad activity.
 - Tinkercad: ***Comments*** - write your own single-line and block comments
 - Tinkercad: ***Arduino Structure*** - basic template for reference/review
 - Tinkercad: ***Bare Minimum*** - guided practice writing the basic template on your own
+
+### Up Next
+##
+[Day 2: Hello, World!](https://github.com/mattflipsbits/DuinoDays/blob/main/Day2/Day2.md)
