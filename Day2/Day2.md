@@ -188,9 +188,9 @@ Tinkercad Activity ***Serial.print() vs. Serial.println()*** for a demonstration
 
 ### Activities
 - Tinkercad: ***Code Walk: Hello, world!***
-- Tinkercad: ***Debug: Hello, world!*** TODO
-- Tinkercad: ***From Scratch: Hello, world!*** TODO
-- Tinkdercad: ***Serial.print() vs. Serial.println()*** TODO
+- Tinkercad: ***Debug: Hello, world!***
+- Tinkercad: ***From Scratch: Hello, world!***
+- Tinkdercad: ***Serial.print() vs. Serial.println()***
 
 ##
 ### Up Next
