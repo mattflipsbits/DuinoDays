@@ -20,4 +20,4 @@
 
 ##
 ### Up Next
-Day 5: Crunching the Numbers
+[Day 5: Crunching the Numbers](https://github.com/mattflipsbits/DuinoDays/blob/main/Day5/Day5.md)
