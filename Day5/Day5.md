@@ -5,7 +5,7 @@
 - Make decisions in code using `if` and `else`
 
 ### From the Docs
-- [Digital Pins (INPUT)](https://docs.arduino.cc/learn/microcontrollers/digital-pins/#pull-up-resistors-with-pins-configured-as-input)
+- [Digital Pins (INPUT)](https://docs.arduino.cc/learn/microcontrollers/digital-pins/#properties-of-pins-configured-as-input)
 - [bool](https://docs.arduino.cc/language-reference/en/variables/data-types/bool/)
 - [true, false](https://docs.arduino.cc/language-reference/en/variables/constants/trueFalse/)
 - [digitalRead()](https://docs.arduino.cc/language-reference/en/functions/digital-io/digitalread/)
