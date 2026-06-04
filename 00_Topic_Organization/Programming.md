@@ -14,3 +14,17 @@
 12. Functions: 
 13. Analog Output:
 14. Analog Input:
+
+
+# For Later
+- Comparison Operators
+  - [Equal to (==)](https://docs.arduino.cc/language-reference/en/structure/comparison-operators/equalTo/)
+  - [Greater than (>)](https://docs.arduino.cc/language-reference/en/structure/comparison-operators/greaterThan/)
+  - [Greater than or equal to (>=)](https://docs.arduino.cc/language-reference/en/structure/comparison-operators/greaterThanOrEqualTo/)
+  - [Less than (<)](https://docs.arduino.cc/language-reference/en/structure/comparison-operators/lessThan/)
+  - [Less than or equal to (<=)](https://docs.arduino.cc/language-reference/en/structure/comparison-operators/lessThanOrEqualTo/)
+  - [Not equal to (!=)](https://docs.arduino.cc/language-reference/en/structure/comparison-operators/notEqualTo/)
+- Logical Operators
+  - [Logical AND (&&)](https://docs.arduino.cc/language-reference/en/structure/boolean-operators/logicalAnd/)
+  - [Logical OR (||)](https://docs.arduino.cc/language-reference/en/structure/boolean-operators/logicalOr/)
+  - [Logical NOT (!)](https://docs.arduino.cc/language-reference/en/structure/boolean-operators/logicalNot/)
