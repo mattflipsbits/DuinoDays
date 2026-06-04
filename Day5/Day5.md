@@ -1,4 +1,4 @@
-# Day 4: Decisions, Decisions
+# Day 5: Decisions, Decisions
 
 ### Today's Goals
 - Read input on a digital pin using buttons
