@@ -5,6 +5,7 @@
 - Make decisions in code using `if` and `else`
 
 ### From the Docs
+- [bool](https://docs.arduino.cc/language-reference/en/variables/data-types/bool/)
 - [digitalRead()](https://docs.arduino.cc/language-reference/en/functions/digital-io/digitalread/)
 - [if](https://docs.arduino.cc/language-reference/en/structure/control-structure/if/)
 - [else](https://docs.arduino.cc/language-reference/en/structure/control-structure/else/)
