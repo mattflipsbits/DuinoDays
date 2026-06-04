@@ -20,4 +20,4 @@
 
 ##
 ### Up Next
-[Day 5: Crunching the Numbers](https://github.com/mattflipsbits/DuinoDays/blob/main/Day5/Day5.md)
+[Day 5: Decisions, Decisions](https://github.com/mattflipsbits/DuinoDays/blob/main/Day5/Day5.md)
