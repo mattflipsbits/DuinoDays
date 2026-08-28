@@ -74,7 +74,7 @@ Examples:
 #### Arduino Program Structure ***(Arduino only)***
 Arduino programs (also called sketches, we will use both interchangeably) consist of two parts, `setup()` and
 `loop()`. The parentheses indicate that these are **functions**, which are small blocks of code that can be
-thought of as mini-programs that normally you can run on demand (known as **calling the function**). `setup()` and
+thought of as mini-programs that you can run on demand (known as **calling the function**). `setup()` and
 `loop()` are slightly different in that they will run automatically when the Arduino is powered up or reset.
 
 The `setup()` function runs only once and usually contains any setup or initialization code you may need. The
