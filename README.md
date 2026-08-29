@@ -1,5 +1,5 @@
 # 'Duino Days
-Introductory Arduino programming, one day at a time ***WORK IN PROGRESS***
+Introductory Arduino programming, one day at a time. [***WORK IN PROGRESS***]
 
 ## About This Course
 'Duino Days is an introductory course to microcontroller programming using the open-source
