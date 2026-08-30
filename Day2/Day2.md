@@ -142,8 +142,10 @@ Finally, the function call is terminated with a semi-colon.
 
 #### Serial.print() ***(Arduino only)***
 The structure of this function is similar to `Serial.begin()` - only this time we use `print()` instead of `begin()`.
-The `Serial.print()` function accepts one argument (for now). In our case, we are using a **string** as the argument.
-A string begins and ends with quotation marks, and contains text, which in this case will be printed to the Serial Monitor.
+The `Serial.print()` function accepts one argument (for now). In our case, as you'll see in the "Hello, world!" Tinkercad 
+activities below we are using a **string** as the argument. A string begins and ends with quotation marks, and contains 
+text, which in this case will be printed to the Serial Monitor.
+
 Note that the quotation marks are not printed, they only serve to delineate the beginning and the end of the string. If you
 wish to contain a quotation mark within a string, you may use the **escape character** `\"` which tells the compiler that
 you wish to include the quotation mark as part of the string, and not to begin or end one.
